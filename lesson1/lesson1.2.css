@@ -1,0 +1,37 @@
+#background {
+    background: purple;
+}
+
+#right {
+    background: yellow;
+    position: absolute;
+    float: right;
+    height: 100%;
+    width: 33%;
+    right: 0;
+}
+
+#left {
+    background: blue;
+    position: absolute;
+    float: left;
+    height: 100%;
+    width: 33%;
+    left: 0;
+}
+
+#top {
+    background: red;
+    position: absolute;
+    height: 100px;
+    width 100%;
+    left: 0; right: 0; top: 0;
+}
+
+#bottom {
+    background: green;
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    left: 0; right: 0; bottom: 0;
+}
