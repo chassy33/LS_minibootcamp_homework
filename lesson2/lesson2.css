@@ -1,0 +1,139 @@
+
+
+body {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 0px;
+    border: solid grey
+}
+
+.header {
+    background-image: url("https://airbusdefenceandspace.com/wp-content/uploads/2016/09/earth-view-from-satellite-space-systems-cover.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 550px;
+    padding-top: 2px;
+    padding-bottom: 25px
+    }
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey
+}
+
+.nav-left {
+    float: left;
+    list-style: none;
+        
+}
+
+.nav-right {
+    float: right;
+    list-style: none;
+    font-size: 16px;
+    padding: 10px
+}
+
+
+
+#title-words {
+    font-family: Helvetica;
+    font-size: 3em;
+    text-align: left;
+    padding-left: 25%;
+    padding-right: auto%;
+    padding-top: 100px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+#under-title {
+    font-family: Helvetica;
+    font-size: 2em;
+    text-align: left;
+    padding-left: 25%;
+    padding-right: auto;
+}
+
+#credit {
+    font-style: italic;
+    font-size: 1.5em;
+    padding-left: 25%;
+    padding-right: auto;
+}
+
+.main-text {
+    text-align: left;
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-top: 50px;
+}
+
+.upper, .middle, .lower, .end {
+    font-size: 22px;
+}
+
+h2 {
+    font-size: 45;
+    font-family: sans-serif;
+    
+}
+
+.blockquote {
+    border-left: 5px solid grey;
+    font-style: italic;
+    color: grey;
+}
+
+img {
+    width: 100%;
+}
+
+.caption {
+    font-style: italic;
+    text-align: center;
+    color: gray
+}
+
+#nasa, #space-ipsum {
+    text-decoration: underline
+}
+
+.end {
+    padding-bottom: 20px;
+}
+
+hr {
+    border-width: 1px;
+    width: 80%;
+}
+
+.all-icons {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.icon {
+    font-size: 50px;
+    padding: 20px;
+}
+
+#footer {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
