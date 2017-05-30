@@ -17,7 +17,7 @@ var items = document.getElementsByTagName('li');
       items[i].style.backgroundColor = "white";
    }
 
-var image = document.createElement("img");
+var pic = document.createElement("img");
 pic.src = "self_image.jpg";
 
 document.body.appendChild(img);
